@@ -1,6 +1,6 @@
 # Hey, I'm Reymart 👋
 
-PHP student developer from the Philippines, Philippines building things that push the language beyond its usual limits.
+PHP student developer from the Philippines, building things that push the language beyond its usual limits.
 
 Most of my work lives under **[@hiblaphp](https://github.com/hiblaphp)**, an open source async runtime for PHP built on native Fibers.
 
@@ -9,7 +9,7 @@ Most of my work lives under **[@hiblaphp](https://github.com/hiblaphp)**, an ope
 ## 🚧 What I'm Building
 
 ### [HiblaPhP](https://github.com/hiblaphp/hibla)
-A modern asynchronous runtime for PHP — think event loops, fiber-native concurrency, and Erlang-style fault tolerance, all in plain PHP.
+A modern asynchronous runtime for PHP, and Erlang-style fault tolerance, all in plain PHP.
 
 | Package | Description |
 |---|---|
@@ -32,7 +32,7 @@ An asynchronous PHP client for the Gemini AI API.
 
 ## 🤝 Contributing & Support
 
-HiblaPhP is fully open source and welcomes contributions of all kinds — bug reports, PRs, docs improvements, or just sharing the project with others.
+HiblaPHP is fully open source and welcomes contributions of all kinds — bug reports, PRs, docs improvements, or just sharing the project with others.
 
 - **Contribute:** Check out the repos under [@hiblaphp](https://github.com/hiblaphp), open issues are a great place to start.
 - **Sponsor:** If this work is useful to you, consider supporting it via [GitHub Sponsors](https://github.com/sponsors/rcalicdan). It helps keep the project alive and moving forward. ❤️
