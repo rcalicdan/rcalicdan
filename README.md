@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hey, I'm Reymart 👋
 
-<!--
-**rcalicdan/rcalicdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PHP student developer from the Philippines, Philippines building things that push the language beyond its usual limits.
 
-Here are some ideas to get you started:
+Most of my work lives under **[@hiblaphp](https://github.com/hiblaphp)**, an open source async runtime for PHP built on native Fibers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚧 What I'm Building
+
+### [HiblaPhP](https://github.com/hiblaphp/hibla)
+A modern asynchronous runtime for PHP — think event loops, fiber-native concurrency, and Erlang-style fault tolerance, all in plain PHP.
+
+| Package | Description |
+|---|---|
+| [hibla](https://github.com/hiblaphp/hibla) | Core async runtime |
+| [event-loop](https://github.com/hiblaphp/event-loop) | Fiber-native event loop |
+| [parallel](https://github.com/hiblaphp/parallel) | Fault-tolerant Erlang-style parallelism |
+| [http-client](https://github.com/hiblaphp/http-client) | Async HTTP client with SSE support |
+| [mysql](https://github.com/hiblaphp/mysql) | High-performance async MySQL client |
+
+### [gemini-client](https://github.com/rcalicdan/gemini-client)
+An asynchronous PHP client for the Gemini AI API.
+
+---
+
+## 🛠️ Stack
+
+`PHP` `Fibers` `Async` `Event-driven architecture`
+
+---
+
+## 🤝 Contributing & Support
+
+HiblaPhP is fully open source and welcomes contributions of all kinds — bug reports, PRs, docs improvements, or just sharing the project with others.
+
+- **Contribute:** Check out the repos under [@hiblaphp](https://github.com/hiblaphp), open issues are a great place to start.
+- **Sponsor:** If this work is useful to you, consider supporting it via [GitHub Sponsors](https://github.com/sponsors/rcalicdan). It helps keep the project alive and moving forward. ❤️
+
+---
+
+## 📬 Find Me
+
+- 🐘 Mastodon: [@rcalicdan@phpc.social](https://phpc.social/@rcalicdan)
+- 🐦 X: [@rcalicdan06](https://x.com/rcalicdan06)
+- 🟠 Reddit: [u/rcalicdan](https://www.reddit.com/user/rcalicdan/)
+
+---
+
+> *Love to break limits.*
