@@ -8,7 +8,7 @@ Most of my work lives under **[@hiblaphp](https://github.com/hiblaphp)**, an ope
 
 ## 🚧 What I'm Building
 
-### [HiblaPhP](https://github.com/hiblaphp/hibla)
+### [HiblaPHP](https://github.com/hiblaphp/hibla)
 A modern asynchronous runtime for PHP, and Erlang-style fault tolerance, all in plain PHP.
 
 | Package | Description |
