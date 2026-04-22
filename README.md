@@ -4,6 +4,7 @@ PHP student developer from the Philippines, building things that push the langua
 
 Most of my work lives under **[@hiblaphp](https://github.com/hiblaphp)**, an open source async runtime for PHP built on native Fibers.
 
+![](https://komarev.com/ghpvc/?username=rcalicdan)
 ---
 
 ## 🚧 What I'm Building
