@@ -40,12 +40,4 @@ HiblaPHP is fully open source and welcomes contributions of all kinds — bug re
 
 ---
 
-## 📬 Find Me
-
-- 🐘 Mastodon: [@rcalicdan@phpc.social](https://phpc.social/@rcalicdan)
-- 🐦 X: [@rcalicdan06](https://x.com/rcalicdan06)
-- 🟠 Reddit: [u/rcalicdan](https://www.reddit.com/user/rcalicdan/)
-
----
-
 > *Love to break limits.*
