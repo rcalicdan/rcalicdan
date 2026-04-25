@@ -27,7 +27,7 @@ An asynchronous PHP client for the Gemini AI API.
 
 ## 🛠️ Stack
 
-`PHP` `Fibers` `Async` `Event-driven architecture`
+`PHP` `Fibers` `Async` `Node.js` `Javascript` `Event-driven architecture`
 
 ---
 
