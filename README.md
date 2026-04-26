@@ -33,7 +33,7 @@ An asynchronous PHP client for the Gemini AI API.
 
 ## 🤝 Contributing & Support
 
-HiblaPHP is fully open source and welcomes contributions of all kinds — bug reports, PRs, docs improvements, or just sharing the project with others.
+HiblaPHP is fully open source and welcomes contributions of all kinds like bug reports, PRs, docs improvements, or just sharing the project with others.
 
 - **Contribute:** Check out the repos under [@hiblaphp](https://github.com/hiblaphp), open issues are a great place to start.
 - **Sponsor:** If this work is useful to you, consider supporting it via [GitHub Sponsors](https://github.com/sponsors/rcalicdan). It helps keep the project alive and moving forward. ❤️
