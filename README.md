@@ -1,6 +1,6 @@
 # Hey, I'm Reymart 👋
 
-PHP student developer from the Philippines, building things that push the language beyond its usual limits.
+Open Source developer from the Philippines, building things that push a language beyond its usual limits.
 
 Most of my work lives under **[@hiblaphp](https://github.com/hiblaphp)**, an open source async runtime for PHP built on native Fibers.
 
