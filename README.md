@@ -1,4 +1,4 @@
-# Hey, I'm Reymart 👋
+# Hey, I'm Reymart 
 
 Open Source developer from the Philippines, building things that push a language beyond its usual limits.
 
@@ -7,7 +7,7 @@ Most of my work lives under **[@hiblaphp](https://github.com/hiblaphp)**, an ope
 ![](https://komarev.com/ghpvc/?username=rcalicdan)
 ---
 
-## 🚧 What I'm Building
+##  What I'm Building
 
 ### [HiblaPHP](https://github.com/hiblaphp/hibla)
 A modern asynchronous runtime for PHP, and Erlang-style fault tolerance, all in plain PHP.
@@ -25,13 +25,13 @@ An asynchronous PHP client for the Gemini AI API.
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 `PHP` `Fibers` `Async` `Node.js` `Javascript` `TypeScript` `Phyton` `Event-driven architecture`
 
 ---
 
-## 🤝 Contributing & Support
+## Contributing & Support
 
 HiblaPHP is fully open source and welcomes contributions of all kinds like bug reports, PRs, docs improvements, or just sharing the project with others.
 
