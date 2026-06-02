@@ -19,6 +19,7 @@ A modern asynchronous runtime for PHP, and Erlang-style fault tolerance, all in 
 | [parallel](https://github.com/hiblaphp/parallel) | Fault-tolerant Erlang-style parallelism |
 | [http-client](https://github.com/hiblaphp/http-client) | Async HTTP client with SSE support |
 | [mysql](https://github.com/hiblaphp/mysql) | High-performance async MySQL client |
+| [postgres](https://github.com/hiblaphp/postgres) | High-performance async PostgreSQL client |
 
 ### [gemini-client](https://github.com/rcalicdan/gemini-client)
 An asynchronous PHP client for the Gemini AI API.
